@@ -1,8 +1,6 @@
 module github.com/kanisterio/safecli-kopia
 
-go 1.22
-
-toolchain go1.22.2
+go 1.20
 
 require (
 	github.com/go-openapi/strfmt v0.23.0
